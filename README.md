@@ -1,4 +1,8 @@
 # Hospital_Readmission_Risk_Analysis
+<p align="center">
+  <img src="Hospital_dashbaord.png" width="800">
+</p>
+
 Business Problem
 
 Hospitals face severe financial penalties from Medicare when patients are readmitted to the hospital within 30 days of being discharged. Furthermore, early readmission is a sign that the patient did not receive the right follow-up care. Administrators currently lack a predictive tool to identify which patients are at the highest risk before they leave the hospital.
