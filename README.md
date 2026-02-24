@@ -1,6 +1,6 @@
 # Hospital_Readmission_Risk_Analysis
 <p align="center">
-  <img src="Hospital_dashbaord.png" width="800">
+  <img src="Hospital_Dashbaord.png" width="800">
 </p>
 
 Business Problem
